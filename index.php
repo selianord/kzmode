@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="css/bootstrap-override.css" />
     <link rel="stylesheet" href="css/main.css" />
     <link rel="stylesheet" href="css/custom-font-face.css" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <link rel="shortcut icon" href="" type="images/png" />
   </head>
   <body>
       <?php require_once('./includes/navMenu-partial.php'); ?>
