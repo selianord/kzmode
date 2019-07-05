@@ -1,3 +1,4 @@
+<footer>
 <div class="container">
 <div class="row">
     <div class="col-md-4">
@@ -57,3 +58,4 @@
     <p class="text-center">Copy Rights: 2019 - All Rights Reserved.</p>
 </div>
 </div>
+</footer>
