@@ -16,8 +16,8 @@
 
     <!-- Meta Tags for SEO -->
     <title>Home - Kuzamode</title>
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
+    <meta name="keywords" content="Kuzamode Pty Ltd is 100% black owned enterprise registered with CIPRO and NCR." />
+    <meta name="description" content="Personal Loans, Debt Consolidation, Debt Mediation, Debt Restoration, Funeral Cover" />
     <link rel="shortcut icon" href="" type="images/png" />
 
     <!-- Angular  -->
