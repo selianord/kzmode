@@ -55,7 +55,10 @@
     </div>
 </div>
 <div class="copyright">
-    <p class="text-center">Copy Rights: 2019 - All Rights Reserved.</p>
+    <p class="text-center">Copy Rights:  <script>
+          document.write(new Date().getFullYear())
+        </script>
+        - All Rights Reserved.</p>
 </div>
 </div>
 </footer>

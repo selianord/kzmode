@@ -1,9 +1,9 @@
 <main>
-    <section class="banner-section home-banner">
+    <section class="banner-section home-banner hidden-md hidden-lg">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 offset-1 text-center overlay">
-                    <h1>Apply for personal loan up to <strong class="highlight">R 8000</strong> now!</h1>                       
+                    <h1>Apply for personal loan up to <strong class="highlight">R 8000</strong> now!</h1>
                 </div>
             </div>
         </div>
@@ -23,7 +23,7 @@
               <div class="col-md-6 service black">
                   <h2>Current Services</h2>
                   <h3>
-                    <i class="fa fa-check-square"></i> 
+                    <i class="fa fa-check-square"></i>
                     Debt Restoration (ITC Clearance)
                   </h3>
                   <h3><i class="fa fa-check-square"></i> Debt Mediation</h3>
@@ -40,7 +40,7 @@
               <div class="col-md-6 service red">
                   <h2>Upcoming Services</h2>
                   <h3>
-                    <i class="fa fa-check-square"></i> 
+                    <i class="fa fa-check-square"></i>
                     Law on Call
                   </h3>
                   <h3><i class="fa fa-check-square"></i> Credit Life</h3>
@@ -63,4 +63,4 @@
           </div>
         </div>
     </section>
-</main> 
+</main>
