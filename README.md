@@ -18,3 +18,9 @@ step3: this step should also have two buttons (left far button For previous and 
 once you clicked the finish button it must submit the form to the email:admin.  and send feedback to the user
 
 NB:We just decided to add bootstrap carousel to our main templates (only on the homepage ) the remaining pages will have a banner images.
+
+
+NB: Implementiing the Login Systems for Admin and Users.... 
+User Function:
+Admin Function: 
+State Admin and State usre navbar
