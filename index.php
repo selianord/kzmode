@@ -1,17 +1,29 @@
 ﻿<!doctype html>
-<html lang="en">
+<html lang="en" ng-app="kuzamode">
   <head>
+    <!-- Document Encoding -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Home - Kuzamode</title>
+   
+    <!-- Stylesheets -->
     <link rel="stylesheet" href="css/bootstrap/bootstrap.css" />
     <link rel="stylesheet" href="font-awesome/css/font-awesome.css" />
     <link rel="stylesheet" href="css/bootstrap-override.css" />
     <link rel="stylesheet" href="css/main.css" />
     <link rel="stylesheet" href="css/custom-font-face.css" />
+
+    <!-- Meta Tags for SEO -->
+    <title>Home - Kuzamode</title>
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <link rel="shortcut icon" href="" type="images/png" />
+
+    <!-- Angular  -->
+    <script src="lib/angular.min.js"></script>
+    <script src="lib/angular-route.js"></script>
+
+    <!-- Configuration --> 
+    <script src="app/root.module.js"></script>
   </head>
   <body>
       <?php require_once('./includes/navMenu-partial.php'); ?>
