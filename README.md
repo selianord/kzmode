@@ -20,7 +20,8 @@ once you clicked the finish button it must submit the form to the email:admin.  
 NB:We just decided to add bootstrap carousel to our main templates (only on the homepage ) the remaining pages will have a banner images.
 
 
-NB: Implementiing the Login Systems for Admin and Users.... 
+NB: Implementing the Login Systems for Admin and Users.... 
 User Function:
 Admin Function: 
 State Admin and State User navbar
+Database 
