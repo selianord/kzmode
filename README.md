@@ -23,4 +23,4 @@ NB:We just decided to add bootstrap carousel to our main templates (only on the 
 NB: Implementiing the Login Systems for Admin and Users.... 
 User Function:
 Admin Function: 
-State Admin and State usre navbar
+State Admin and State User navbar
